@@ -1,7 +1,7 @@
 - 👋 Hey, I’m @Adam-Lowther
 - Follow my Data Science journey from Novice ➡️ Data Scientist
-- 🌱 I’m currently learning R, SQL, Tableau and building Machine Learning Models!
-- 📫 How to reach me -  @_AdamLowther on Twitter
+- 🌱 I’m currently learning R, SQL, AWS, Tableau AND building Machine Learning Models!
+- 📫 Reach me here: @AdamLowther_ on Twitter
 
 <!---
 Adam-Lowther/Adam-Lowther is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
